@@ -9,10 +9,11 @@ Mentor [Анна Вараксина](https://htmlacademy.ru/profile/id153610)
 - Desktop
 - States (hover, active, focus) for all interactive elements
 - Grid, flex
+- Pixel Perfect
 
 ## Mockup
 
-[Figma](https://www.figma.com/file/MFMmzEiLLb5Iwxthl9Z87e/HTML-2-%2F-%D0%9C%D0%B8%D1%88%D0%BA%D0%B0-(Copy)?node-id=43%3A122&t=F9Kp6dNbABhaly7u-1)
+[Figma](https://www.figma.com/file/8L8mSdpoBKwPAgMjng5YMr/HTML-1-%2F-%D0%93%D0%BB%D0%B5%D0%B9%D1%81%D0%B8-(34)?node-id=0%3A1&t=RceL0F2doS3K5zWN-1)
 
 ## View Deployment
 
